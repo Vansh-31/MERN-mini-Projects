@@ -1,0 +1,54 @@
+#save-note-btn{
+    float: right;
+}
+/* .add-note-card{
+
+} */
+.add-note-btn{
+    height: 100%;
+    width: 100%;
+    font-size: 7vw;
+    background-color: transparent;
+    border: none;
+    font-weight:100;
+}
+.read-more-btn{
+    right: 10px;
+    bottom: 12px;
+}
+.add-icon{
+    left: 45%;
+    top: 25%;
+}
+.delete-icon{
+    left: 12px;
+    bottom: 20px;
+}
+.edit-icon{
+    left: 40px;
+    bottom: 21px;
+}
+.x-mark{
+    top: 13px;
+    right: 9px;
+}
+.add-icon:hover{
+    cursor: pointer;
+}
+.x-mark:hover{
+    cursor: pointer;
+}
+.delete-icon:hover{
+    cursor: pointer;
+}
+.edit-icon:hover{
+    cursor: pointer;
+}
+.note{
+    min-height: 13vw;
+    width: 30%;
+}
+.select-tag{
+    display: inline-block;
+    width: 23%;
+}

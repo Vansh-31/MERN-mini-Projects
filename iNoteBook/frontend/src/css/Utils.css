@@ -1,0 +1,39 @@
+.h-full{
+    height: 100%;
+}
+.h-half{
+    height: 50%;
+}
+.w-full{
+    width: 100%;
+}
+.w-half{
+    width: 50%;
+}
+.flex{
+    display: flex;
+}
+.sp-btwn{
+    justify-content: space-between;
+}
+.sp-arnd{
+    justify-content:space-around;
+}
+.sp-even{
+    justify-content:space-evenly;
+}
+.f-wrap{
+    flex-wrap: wrap;
+}
+.float-right{
+    float: right;
+}
+.p-abs{
+    position: absolute;
+}
+.a-center{
+    align-items: center;
+}
+.jc-center{
+    justify-content: center;
+}
